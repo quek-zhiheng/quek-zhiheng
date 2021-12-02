@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Using computational thinking and techniques to solve complex problems
-- 🎓 &nbsp; Studying Computational Biology at the NAtional University of Singapore
+- 🎓 &nbsp; Studying Computational Biology at the National University of Singapore
 - 🌱 &nbsp; Currently learning Database Systems and Management
 - Open for project collaboration and internship opportunities!!
 
