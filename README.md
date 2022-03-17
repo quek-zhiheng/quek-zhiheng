@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | R (Statistics) | Javascript
-- 🌐 &nbsp; HTML | CSS | React Native
+- 🌐 &nbsp; HTML | CSS | PostgresSQL
 - And still learning more!! 😊
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=quek-zhiheng&show_icons=true)
