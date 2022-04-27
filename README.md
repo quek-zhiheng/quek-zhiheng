@@ -15,7 +15,7 @@
 - 🌐 &nbsp; HTML | CSS | PostgresSQL
 - And still learning more!! 😊
 
-![github stats](https://github-readme-stats.vercel.app/api?username=quek-zhiheng&show_icons=true)!
+![github stats](https://github-readme-stats.vercel.app/api?username=quek-zhiheng&show_icons=true)
 
 ### 📫🤝🏻 Connect with Me
 
