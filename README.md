@@ -30,5 +30,4 @@
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/quekzhiheng/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:quekzhiheng@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/quek-zhiheng)
 
