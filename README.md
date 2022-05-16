@@ -21,11 +21,10 @@
 - 🌐 &nbsp; HTML | CSS | PostgresSQL
 - And still learning more!! 😊
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quek-zhiheng&show_icons=true&include_all_commits=true&theme=radical" alt="Zhi Heng's Github Stats" /></a>
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quek-zhiheng&show_icons=true&include_all_commits=true&theme=radical" alt="Zhi Heng's Github Stats" /></a>
+</a>
+
 
 ### 📫🤝🏻 Connect with Me
 
