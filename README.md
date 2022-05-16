@@ -6,6 +6,8 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Bioinformatician;I'm+a+Data+Engineer;I'm+a+Data+Scientist" /></a>
 </p>
 
+<img align="right" src="https://github.com/quek-zhiheng/quek-zhiheng/blob/main/giphy.gif">
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Using computational thinking and techniques to solve complex problems
