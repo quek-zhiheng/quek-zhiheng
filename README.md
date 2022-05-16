@@ -1,6 +1,6 @@
-![header GIF](https://github.com/quek-zhiheng/quek-zhiheng/blob/main/video_2021-12-02_15-02-31.gif)
-
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/quek-zhiheng">Zhi Heng</a>'s Profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+</p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
