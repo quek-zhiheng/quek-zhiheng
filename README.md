@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | R (Statistics) | Javascript | BASH
-- 🌐 &nbsp; HTML | CSS | PostgresSQL
+- 🌐 &nbsp; HTML | CSS | PostgreSQL
 - And still learning more!! 😊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
