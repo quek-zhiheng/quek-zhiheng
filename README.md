@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/quek-zhiheng">Zhi Heng</a>'s Profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 </p>
 
-<a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+Github+Profile!;I'm+a+Bioinformatician+:)));I'm+a+Data+Engineer+:)));I'm+a+Data+Scientist+:)))" /></a>
+<a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+Github+Profile!;I'm+a+Bioinformatician+:)));I'm+a+Data+Engineer+:)));I'm+a+Data+Scientist+:)))" width="25px"/></a>
 
 <p align="right">
   <img src="https://github.com/quek-zhiheng/quek-zhiheng/blob/main/giphy.gif">
