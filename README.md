@@ -21,7 +21,7 @@
 - And still learning more!! 😊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quek-zhiheng&show_icons=true&include_all_commits=true&theme=radical" alt="Zhi Heng's Github Stats" height=20 width=30/></a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quek-zhiheng&show_icons=true&include_all_commits=true&theme=radical" alt="Zhi Heng's Github Stats" height=200 width=300/></a>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quekzzsss&theme=radical" /></a>
