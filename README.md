@@ -16,7 +16,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | R (Statistics) | Javascript | BASH
+- 💻 &nbsp; Python | Java | R (Statistics) | Javascript | Bash
 - 🌐 &nbsp; HTML | CSS | PostgreSQL
 - And still learning more!! 😊
 
