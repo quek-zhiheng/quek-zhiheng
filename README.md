@@ -23,7 +23,7 @@
 <h3> 📊 Github Stats </h3>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/quek-zhiheng">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quek-zhiheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quek-zhiheng&layout=compact&langs_count=5&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
