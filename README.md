@@ -16,9 +16,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | R (Statistics) | Javascript | Bash
-- 🌐 &nbsp; HTML | CSS | PostgreSQL | SQLite | MongoDB
-- And still learning more!! 😊
+👉 Languages
+[<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'](https://img.shields.io/)
+
 
 <h3> 📊 Github Stats </h3>
 
