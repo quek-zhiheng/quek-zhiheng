@@ -23,6 +23,15 @@
 [<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'>](https://img.shields.io/)
 [<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>](https://img.shields.io/)
 [<img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>](https://img.shields.io/)
+[<img src='https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white'>](https://img.shields.io/)
+
+👉 Databases
+
+[<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>](https://img.shields.io/)
+[<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>](https://img.shields.io/)
+[<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>](https://img.shields.io/)
+[<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>](https://img.shields.io/)
+[<img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'>](https://img.shields.io/)
 
 
 
@@ -31,6 +40,7 @@
 <p align="left">
   <a href="https://github.com/quek-zhiheng">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quek-zhiheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quek-zhiheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </p>
 
