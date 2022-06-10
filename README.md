@@ -47,6 +47,6 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/quekzhiheng/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:quekzhiheng@gmail.com) 💌
+ - [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/quekzhiheng/)
+ - [<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>](mailto:quek_zhiheng@u.nus.edu)
 
