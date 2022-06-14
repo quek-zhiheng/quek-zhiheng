@@ -6,7 +6,7 @@
 
 <img src="https://github.com/quek-zhiheng/quek-zhiheng/blob/main/giphy.gif" align="right">
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 
 - 🤔 &nbsp; Using computational thinking and techniques to solve complex problems
 - 🎓 &nbsp; Studying Computational Biology at the National University of Singapore
@@ -14,7 +14,7 @@
 - Open for project collaboration and internship opportunities!!
 
 
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
 👉 Languages
 
