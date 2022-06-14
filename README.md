@@ -16,7 +16,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
-👉 <font size="16"> Languages </font>
+👉 <font size="30"> Languages </font>
 
 [<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>](https://img.shields.io/)
 [<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>](https://img.shields.io/)
