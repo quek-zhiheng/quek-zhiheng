@@ -16,7 +16,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
-👉 Languages
+👉 <b>Languages</b>
 
 [<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>](https://img.shields.io/)
 [<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>](https://img.shields.io/)
@@ -25,7 +25,7 @@
 [<img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>](https://img.shields.io/)
 [<img src='https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white'>](https://img.shields.io/)
 
-👉 Databases
+👉 <b>Databases</b>
 
 [<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>](https://img.shields.io/)
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>](https://img.shields.io/)
