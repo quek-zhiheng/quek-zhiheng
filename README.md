@@ -33,6 +33,11 @@
 [<img src='https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white'>](https://img.shields.io/)
 [<img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'>](https://img.shields.io/)
 
+👉 <b>Machine Learning</b>
+
+[<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'>](https://img.shields.io/)
+[<img src='https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white'>](https://img.shields.io/)
+[<img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white'>](https://img.shields.io/)
 
 <h3> 📊 Github Stats </h3>
 
