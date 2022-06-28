@@ -14,36 +14,12 @@
 - Open for project collaboration and internship opportunities!!
 
 
-<h2>🛠 Tech Stack</h2>
-
-👉 <b>Languages</b>
-
-[<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white'>](https://img.shields.io/)
-
-👉 <b>Databases</b>
-
-[<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'>](https://img.shields.io/)
-
-👉 <b>Machine Learning</b>
-
-[<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white'>](https://img.shields.io/)
-[<img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white'>](https://img.shields.io/)
-
 <h3> 📊 Github Stats </h3>
 
 <p align="left">
   <a href="https://github.com/quek-zhiheng">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quek-zhiheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=quekzzsss&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
   </a>
 </p>
 
