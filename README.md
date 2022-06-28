@@ -19,7 +19,6 @@
 <p align="left">
   <a href="https://github.com/quek-zhiheng">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quek-zhiheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=quekzzsss&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
   </a>
 </p>
 
