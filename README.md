@@ -10,7 +10,6 @@
 
 - 🤔 &nbsp; Using computational thinking and techniques to solve complex problems
 - 🎓 &nbsp; Studying Computational Biology at the National University of Singapore
-- 🌱 &nbsp; Currently learning NoSQL and Big Data Systems!
 - Open for project collaboration and internship opportunities!!
 
 
