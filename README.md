@@ -10,7 +10,7 @@
 
 Hey there, Zhi Heng here! I am currently a student in NUS and a Computational Neuroscience Intern 😊! I find myself fascinated with web app dev, DBMSes, AI/ML, bioinformatics topics and genrally, the prospects of engineering elegant solutions for gaps in current technologies.
 
-If you fancy a colloaboration with me or would like to work with me on a project, feel free to contact me through the platforms below!
+If you fancy a collaboration with me or would like to discuss with me about a project, feel free to contact me through the platforms below!
 
 
 <h3> 📊 Github Stats </h3>
