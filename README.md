@@ -8,9 +8,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🤔 &nbsp; Using computational thinking and techniques to solve complex problems
-- 🎓 &nbsp; Studying Computational Biology at the National University of Singapore
-- Open for project collaboration and internship opportunities!!
+Hey there, Zhi Heng here! I am currently a student in NUS as well as a Computational Neuroscience Intern 😊! I find myself fascinated with web app dev, DBMSes, AI/ML and bioinformatics topics and the prospects of engineering elegant solutions for gaps in current technologies. If you fancy a colloaboration with me or would like to work with me on a project, feel free to contact me through the platforms below!
 
 
 <h3> 📊 Github Stats </h3>
