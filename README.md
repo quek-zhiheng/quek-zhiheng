@@ -15,9 +15,10 @@ If you fancy a collaboration with me or would like to discuss with me about a pr
 <p align="left">
   <a href="https://github.com/quek-zhiheng">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quek-zhiheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quek-zhiheng&layout=compact&theme=radical&count_private=true"/>
   </a>
 </p>
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quek-zhiheng&layout=compact&theme=radical&count_private=true)
 
 
 ### 📫🤝🏻 Connect with Me
