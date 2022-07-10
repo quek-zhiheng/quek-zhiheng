@@ -6,7 +6,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-Hey there, Zhi Heng here! I am currently a student in NUS and a Computational Neuroscience Intern 😊! I find myself fascinated with web app dev, DBMSes, AI/ML, bioinformatics topics and generally, the prospects of engineering elegant solutions for gaps in current technologies.
+Hey there, Zhi Heng here! I am currently a student in NUS and a Computational Neuroscience Intern 😊! I find myself fascinated with web/app dev, DBMSes, AI/ML, bioinformatics topics and generally, the prospects of engineering elegant solutions for gaps in current technologies.
 
 If you fancy a collaboration with me or would like to discuss with me about a project, feel free to contact me through the platforms below!
 
@@ -17,10 +17,6 @@ If you fancy a collaboration with me or would like to discuss with me about a pr
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quek-zhiheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-
-<!--
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quek-zhiheng&layout=compact&theme=radical&count_private=true)
--->
 
 ### 📫🤝🏻 Connect with Me
 
