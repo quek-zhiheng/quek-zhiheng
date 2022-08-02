@@ -2,8 +2,6 @@
   <h1 align="center">Welcome to <a href="https://github.com/quek-zhiheng">my</a> Profile 👋</h1>
 </p>
 
-<a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+Github+Profile!;I'm+a+Bioinformatician+:)));I'm+a+Data+Engineer+:)));I'm+a+Software+Engineer+:)))" /></a>
-
 <h2> 👨🏻‍💻 About Me </h2>
 
 Hey there, Zhi Heng here! I am currently a student in NUS and a Computational Neuroscience Intern 😊! I find myself fascinated with web/app dev, DBMSes, AI/ML, bioinformatics topics and generally, the prospects of engineering elegant solutions for gaps in current technologies.
