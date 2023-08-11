@@ -12,6 +12,9 @@ If you fancy a collaboration with me or would like to discuss with me about a pr
   </a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quek-zhiheng&layout=compact&theme=radical&count_private=true)
 -->
