@@ -12,8 +12,7 @@ If you fancy a collaboration with me or would like to discuss with me about a pr
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Zhi Heng's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=radical&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫🤝🏻 Connect with Me
 
