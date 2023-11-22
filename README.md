@@ -12,7 +12,7 @@ If you fancy a collaboration with me or would like to discuss with me about a pr
   </a>
 </p>
 
-[![Zhi Heng's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=quekzzsss&theme=radical&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhi Heng's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=quekzzsss&theme=radical&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫🤝🏻 Connect with Me
 
